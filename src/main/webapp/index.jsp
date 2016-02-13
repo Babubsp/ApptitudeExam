@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Apptitude Exam</title>
 <link rel="stylesheet" type="text/css" href="css/index.css">
 <script type="text/javascript" src="js/jquery.js"></script>
 <script type="text/javascript" src="js/myscript.js"></script>
