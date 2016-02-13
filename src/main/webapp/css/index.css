@@ -1,0 +1,93 @@
+@CHARSET "ISO-8859-1";
+#bodycontent
+{
+	background-image: url(./../images/Transparent.png);
+	background-repeat:no-repeat;
+    background-size:100% 100%;
+		 
+}
+
+#maindiv
+{
+width:98%;
+height: 100%;
+margin-left:1%;
+margin-right:1%;
+}
+
+#top
+{
+
+	width:100%;
+	height: 15%;
+}
+
+#topleft{
+	width:25%;
+	height:100%;
+	float:left;
+}
+#topcenter{
+	width:50%;
+	height:100%;
+	float:left;
+	text-align:center;
+}
+#topright{
+	width:25%;
+	height:100%;
+	float:left;
+	
+}
+
+
+#middle
+{
+
+
+width:100%;
+height: 70%;
+float:left;
+}
+
+.trans
+{
+	background-color: #ffffff; 
+	opacity: 0.6;
+    filter: alpha(opacity=60);
+}
+#middleleft
+{
+	
+	width:14%;
+	height: 100%;
+	float:left;
+	margin-left:1%;
+	
+}
+
+#middlecenter
+{
+	
+	width:68%;
+	height: 100%;
+	float:left;
+	margin-right:1%;
+	margin-left:1%;
+	overflow: auto;
+}
+
+#middleright
+{
+	
+	width:14%;
+	height: 100%;
+	float:left;
+}
+
+#bottom
+{
+
+	width:100%;
+	height: 15%;
+}
