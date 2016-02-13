@@ -21,7 +21,7 @@
 			<div id="topright"></div>
 		</div>
 		<div id="middle" style="">
-			<div id="middleleft" class="trans">Something shoul be here</div>
+			<div id="middleleft" class="trans">Something should be here</div>
 			<div id="middlecenter">
 				<div id="questionblock">
 					<div id="question"
