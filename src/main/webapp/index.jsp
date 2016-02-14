@@ -32,7 +32,304 @@
 							remainder in each case.</div>
 					</div>
 					<div id="options" style="margin-top: 3%">
-						<div style="clear: both" />
+						<div style="clear: both"></div>
+						<input type="radio" value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">A</span> <input type="radio"
+							value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">B</span> <br /> <input
+							type="radio" value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">C</span> <input type="radio"
+							value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">D</span><br />
+					</div>
+					<div id="workspace">
+						<h3 style="float: right">Workspace</h3>
+					</div>
+				</div>
+				<div id="questionblock">
+					<div id="question"
+						style="float: left; width: 100%; margin-bottom: 2%">
+						<div style="float: left; width: 7%; text-align: center">1.</div>
+						<div style="float: left; width: 90%;">Find the greatest
+							number that will divide 43, 91 and 183 so as to leave the same
+							remainder in each case.</div>
+					</div>
+					<div id="options" style="margin-top: 3%">
+						<div style="clear: both"></div>
+						<input type="radio" value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">A</span> <input type="radio"
+							value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">B</span> <br /> <input
+							type="radio" value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">C</span> <input type="radio"
+							value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">D</span><br />
+					</div>
+					<div id="workspace">
+						<h3 style="float: right">Workspace</h3>
+					</div>
+				</div>
+				<div id="questionblock">
+					<div id="question"
+						style="float: left; width: 100%; margin-bottom: 2%">
+						<div style="float: left; width: 7%; text-align: center">1.</div>
+						<div style="float: left; width: 90%;">Find the greatest
+							number that will divide 43, 91 and 183 so as to leave the same
+							remainder in each case.</div>
+					</div>
+					<div id="options" style="margin-top: 3%">
+						<div style="clear: both"></div>
+						<input type="radio" value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">A</span> <input type="radio"
+							value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">B</span> <br /> <input
+							type="radio" value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">C</span> <input type="radio"
+							value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">D</span><br />
+					</div>
+					<div id="workspace">
+						<h3 style="float: right">Workspace</h3>
+					</div>
+				</div>
+				<div id="questionblock">
+					<div id="question"
+						style="float: left; width: 100%; margin-bottom: 2%">
+						<div style="float: left; width: 7%; text-align: center">1.</div>
+						<div style="float: left; width: 90%;">Find the greatest
+							number that will divide 43, 91 and 183 so as to leave the same
+							remainder in each case.</div>
+					</div>
+					<div id="options" style="margin-top: 3%">
+						<div style="clear: both"></div>
+						<input type="radio" value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">A</span> <input type="radio"
+							value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">B</span> <br /> <input
+							type="radio" value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">C</span> <input type="radio"
+							value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">D</span><br />
+					</div>
+					<div id="workspace">
+						<h3 style="float: right">Workspace</h3>
+					</div>
+				</div>
+				<div id="questionblock">
+					<div id="question"
+						style="float: left; width: 100%; margin-bottom: 2%">
+						<div style="float: left; width: 7%; text-align: center">1.</div>
+						<div style="float: left; width: 90%;">Find the greatest
+							number that will divide 43, 91 and 183 so as to leave the same
+							remainder in each case.</div>
+					</div>
+					<div id="options" style="margin-top: 3%">
+						<div style="clear: both"></div>
+						<input type="radio" value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">A</span> <input type="radio"
+							value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">B</span> <br /> <input
+							type="radio" value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">C</span> <input type="radio"
+							value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">D</span><br />
+					</div>
+					<div id="workspace">
+						<h3 style="float: right">Workspace</h3>
+					</div>
+				</div>
+				<div id="questionblock">
+					<div id="question"
+						style="float: left; width: 100%; margin-bottom: 2%">
+						<div style="float: left; width: 7%; text-align: center">1.</div>
+						<div style="float: left; width: 90%;">Find the greatest
+							number that will divide 43, 91 and 183 so as to leave the same
+							remainder in each case.</div>
+					</div>
+					<div id="options" style="margin-top: 3%">
+						<div style="clear: both"></div>
+						<input type="radio" value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">A</span> <input type="radio"
+							value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">B</span> <br /> <input
+							type="radio" value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">C</span> <input type="radio"
+							value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">D</span><br />
+					</div>
+					<div id="workspace">
+						<h3 style="float: right">Workspace</h3>
+					</div>
+				</div>
+				<div id="questionblock">
+					<div id="question"
+						style="float: left; width: 100%; margin-bottom: 2%">
+						<div style="float: left; width: 7%; text-align: center">1.</div>
+						<div style="float: left; width: 90%;">Find the greatest
+							number that will divide 43, 91 and 183 so as to leave the same
+							remainder in each case.</div>
+					</div>
+					<div id="options" style="margin-top: 3%">
+						<div style="clear: both"></div>
+						<input type="radio" value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">A</span> <input type="radio"
+							value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">B</span> <br /> <input
+							type="radio" value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">C</span> <input type="radio"
+							value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">D</span><br />
+					</div>
+					<div id="workspace">
+						<h3 style="float: right">Workspace</h3>
+					</div>
+				</div>
+				<div id="questionblock">
+					<div id="question"
+						style="float: left; width: 100%; margin-bottom: 2%">
+						<div style="float: left; width: 7%; text-align: center">1.</div>
+						<div style="float: left; width: 90%;">Find the greatest
+							number that will divide 43, 91 and 183 so as to leave the same
+							remainder in each case.</div>
+					</div>
+					<div id="options" style="margin-top: 3%">
+						<div style="clear: both"></div>
+						<input type="radio" value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">A</span> <input type="radio"
+							value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">B</span> <br /> <input
+							type="radio" value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">C</span> <input type="radio"
+							value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">D</span><br />
+					</div>
+					<div id="workspace">
+						<h3 style="float: right">Workspace</h3>
+					</div>
+				</div>
+				<div id="questionblock">
+					<div id="question"
+						style="float: left; width: 100%; margin-bottom: 2%">
+						<div style="float: left; width: 7%; text-align: center">1.</div>
+						<div style="float: left; width: 90%;">Find the greatest
+							number that will divide 43, 91 and 183 so as to leave the same
+							remainder in each case.</div>
+					</div>
+					<div id="options" style="margin-top: 3%">
+						<div style="clear: both"></div>
+						<input type="radio" value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">A</span> <input type="radio"
+							value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">B</span> <br /> <input
+							type="radio" value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">C</span> <input type="radio"
+							value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">D</span><br />
+					</div>
+					<div id="workspace">
+						<h3 style="float: right">Workspace</h3>
+					</div>
+				</div>
+				<div id="questionblock">
+					<div id="question"
+						style="float: left; width: 100%; margin-bottom: 2%">
+						<div style="float: left; width: 7%; text-align: center">1.</div>
+						<div style="float: left; width: 90%;">Find the greatest
+							number that will divide 43, 91 and 183 so as to leave the same
+							remainder in each case.</div>
+					</div>
+					<div id="options" style="margin-top: 3%">
+						<div style="clear: both"></div>
+						<input type="radio" value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">A</span> <input type="radio"
+							value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">B</span> <br /> <input
+							type="radio" value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">C</span> <input type="radio"
+							value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">D</span><br />
+					</div>
+					<div id="workspace">
+						<h3 style="float: right">Workspace</h3>
+					</div>
+				</div>
+				<div id="questionblock">
+					<div id="question"
+						style="float: left; width: 100%; margin-bottom: 2%">
+						<div style="float: left; width: 7%; text-align: center">1.</div>
+						<div style="float: left; width: 90%;">Find the greatest
+							number that will divide 43, 91 and 183 so as to leave the same
+							remainder in each case.</div>
+					</div>
+					<div id="options" style="margin-top: 3%">
+						<div style="clear: both"></div>
+						<input type="radio" value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">A</span> <input type="radio"
+							value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">B</span> <br /> <input
+							type="radio" value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">C</span> <input type="radio"
+							value="A"
+							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
+						<span style="margin-right: 30%">D</span><br />
+					</div>
+					<div id="workspace">
+						<h3 style="float: right">Workspace</h3>
+					</div>
+				</div>
+				<div id="questionblock">
+					<div id="question"
+						style="float: left; width: 100%; margin-bottom: 2%">
+						<div style="float: left; width: 7%; text-align: center">1.</div>
+						<div style="float: left; width: 90%;">Find the greatest
+							number that will divide 43, 91 and 183 so as to leave the same
+							remainder in each case.</div>
+					</div>
+					<div id="options" style="margin-top: 3%">
+						<div style="clear: both"></div>
 						<input type="radio" value="A"
 							style="margin-left: 10%; margin-top: 1%; margin-right: 2%">
 						<span style="margin-right: 30%">A</span> <input type="radio"
